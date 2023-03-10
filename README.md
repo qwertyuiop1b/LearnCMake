@@ -1,0 +1,2 @@
+# LearnCMake
+cmake tutorial note
